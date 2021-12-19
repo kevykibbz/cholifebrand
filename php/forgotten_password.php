@@ -29,7 +29,7 @@
 	            {
 	            	$data=[
 		                    'email'=>'info@chillcash.co.ke',
-		                    'password'=>'<Kevykibbz4578/>',
+		                    'password'=>'****************',
 		                    'title'=>'Cholifebrand',
 		                    'subject'=>'forgotten password ?',
 		                    'to'=>$email,
