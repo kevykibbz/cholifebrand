@@ -16,7 +16,7 @@
     require 'contactus.php';
     $data=[
                     'email'=>'info@chillcash.co.ke',
-                    'password'=>'<Kevykibbz4578/>',
+                    'password'=>'*****************',
                     'title'=>$user['site_name'],
                     'subject'=>$subject,
                     'to'=>$email,
