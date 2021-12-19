@@ -1,9 +1,4 @@
 <?php
-	// define('server','localhost');
-	// define('username','chillcas_swiftkash');
-	// define('password','<Kevykibbz4578/>');
-	// define('dbname','chillcas_swiftkash');
-
 	define('server','localhost');
 	define('username','root');
 	define('password','');
