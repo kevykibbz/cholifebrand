@@ -1,13 +1,13 @@
 <?php 
      $user=[
      	        'site_name'=>'Cholifebrand',
-                  'email_address'=>'RealusGeorgeJr@gmail.com',
+                  'email_address'=>'*******@gmail.com',
                   'email_address2'=>'example2@duncho.com',
      	        'description'=>'sample description',
      	        'key_words'=>'sample description',
-                  'phone'=>'+16783687789',
-                  'phone2'=>'+16783687789',
-     	        'location'=>'Atlanta,Georgia',
+                  'phone'=>'+254798449624',
+                  'phone2'=>'+254796268817',
+     	        'location'=>'Eldoret,Kenya',
      	        'designer_link'=>'https://mjtech.co.ke',
                   'designer_name'=>'mjtech',
                   'facebook_link'=>'www.facebook.com',
