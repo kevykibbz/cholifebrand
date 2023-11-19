@@ -20,7 +20,7 @@
     <meta property="og:type" content="article">
     <meta property="og:title" content="<?php echo $user['site_name'];?> home">
     <meta property="og:description" content="<?php echo $user['site_name'];?> <?php echo $user['description'];?>.">
-    <meta property="og:image" content="https:/<?php echo $_SERVER['SERVER_NAME'] ?>/images/<?php echo $user['site_image'] ?>">
+    <meta property="og:image" content="https://<?php echo $_SERVER['SERVER_NAME'] ?>/images/<?php echo $user['site_image'] ?>">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script>
         addEventListener("load", function () {
