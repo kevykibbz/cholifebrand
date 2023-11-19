@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
     <meta name="keywords" content="<?php echo $user['key_words'];?>" />
-    <meta name="author" content="mjtech" />
+    <meta name="author" content="Devme" />
     <meta charset="utf-8">
     <meta name="theme-color" content="#FC427B">
     <meta name="msapplication-navbutton-color" content="#FC427B">
